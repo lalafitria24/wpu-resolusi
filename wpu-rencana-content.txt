@@ -4,6 +4,8 @@ RENCANA KONTEN WPU
 *E56
 * Framework javascript
   ^React
+  ^angular
+  ^vue
 -Struktur data dasar
 -PHP FRAMEWORK
   ^ Laravel
