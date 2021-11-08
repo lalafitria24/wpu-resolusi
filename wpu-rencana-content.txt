@@ -1,6 +1,13 @@
 RENCANA KONTEN WPU
 
 -JAVASCRIPT
+*E56
+* Framework javascript
+  ^Agular
+  ^React
+-Struktur data dasar
 -PHP FRAMEWORK
+  ^ Laravel
 -Interview
 -Vlogs
+-Python
